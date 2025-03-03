@@ -1,0 +1,7 @@
+Orange extracted:
+Video 53: 800 images
+Video 74: 800 images
+Video 151: 800 images
+Video 169: 800 images
+Video 170: 800 images
+Video 171: 800 images

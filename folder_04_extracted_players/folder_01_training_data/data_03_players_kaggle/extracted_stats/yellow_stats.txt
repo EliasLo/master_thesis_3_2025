@@ -1,0 +1,7 @@
+Yellow extracted:
+Video 14: 800 images
+Video 18: 800 images
+Video 19: 800 images
+Video 84: 800 images
+Video 102: 800 images
+Video 145: 800 images

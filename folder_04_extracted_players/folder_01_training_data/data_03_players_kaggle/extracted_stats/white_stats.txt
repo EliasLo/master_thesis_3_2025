@@ -1,0 +1,7 @@
+White extracted:
+Video 5: 800 images
+Video 15: 800 images
+Video 65: 800 images
+Video 68: 800 images
+Video 73: 800 images
+Video 75: 800 images

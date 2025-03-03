@@ -1,0 +1,7 @@
+Red extracted:
+Video 6: 800 images
+Video 15: 800 images
+Video 51: 800 images
+Video 60: 800 images
+Video 102: 800 images
+Video 104: 800 images

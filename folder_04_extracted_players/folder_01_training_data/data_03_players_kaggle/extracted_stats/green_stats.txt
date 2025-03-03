@@ -1,0 +1,7 @@
+Green extracted:
+Video 20: 800 images
+Video 53: 800 images
+Video 115: 800 images
+Video 172: 800 images
+Video 173: 800 images
+Video 174: 800 images

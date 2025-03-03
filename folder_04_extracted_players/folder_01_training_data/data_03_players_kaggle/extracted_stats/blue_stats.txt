@@ -1,0 +1,7 @@
+Blue extracted:
+Video 16: 800 images
+Video 21: 595 images
+Video 26: 800 images
+Video 46: 800 images
+Video 50: 800 images
+Video 63: 800 images
